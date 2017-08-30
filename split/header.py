@@ -1,0 +1,13 @@
+#!/usr/bin/python
+#-*- coding: utf-8 -*-
+
+
+class CMD:
+	A = 1
+	B = 2
+	C = 3
+
+
+
+def plus(a,b):
+	return a+b
